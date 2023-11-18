@@ -1,7 +1,6 @@
 ### Olá, sou Renato Santos
 
 - 👨‍💻 Atualmente meu foco de estudos é em Front End (HTML, CSS e JavaScript);
-- 🧑🏻‍🎓 Graduando em Sistemas para Internet;
 - 🧑🏻‍🎓 Graduado em Sistemas de Informação;
 - 🧑🏻‍🎓 Especialista em Gestão de Tecnologia da Informação;
 - 🧑🏻‍🎓 Mestre em Políticas Públicas, Gestão e Avaliação da Educação Superior;
